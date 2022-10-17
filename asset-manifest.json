@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MohammedAnvarPP/eCart/static/css/main.d691190e.css",
-    "main.js": "/MohammedAnvarPP/eCart/static/js/main.d52edbbd.js",
-    "index.html": "/MohammedAnvarPP/eCart/index.html",
-    "main.d691190e.css.map": "/MohammedAnvarPP/eCart/static/css/main.d691190e.css.map",
-    "main.d52edbbd.js.map": "/MohammedAnvarPP/eCart/static/js/main.d52edbbd.js.map"
+    "main.css": "/eCart/static/css/main.d691190e.css",
+    "main.js": "/eCart/static/js/main.d52edbbd.js",
+    "index.html": "/eCart/index.html",
+    "main.d691190e.css.map": "/eCart/static/css/main.d691190e.css.map",
+    "main.d52edbbd.js.map": "/eCart/static/js/main.d52edbbd.js.map"
   },
   "entrypoints": [
     "static/css/main.d691190e.css",
